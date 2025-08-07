@@ -64,8 +64,8 @@ README.md              # Project documentation
 ## Author
 
 **RJ Clemens**  
-Master's in Data Science — Stockton University  
-Project created for DSSA 5301 Final Presentation
+Master's in Data Science and Strategic Analytics — Stockton University  
+
 
 ---
 
